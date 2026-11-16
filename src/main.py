@@ -1,1 +1,1 @@
-print('hello from skill selftest')
+print('hello v2 - overwrite test')
